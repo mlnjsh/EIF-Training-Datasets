@@ -1,0 +1,101 @@
+CustomerID,Age,Gender,City,Annual_Income,Purchase_Amount,Product_Category
+98,41.0,Female,Bangalore,949150.0,10040.0,Electronics
+71,51.0,Male,Mumbai,1421567.0,28432.0,Home Decor
+54,61.0,Female,Bangalore,431373.0,,Sports
+77,25.0,Male,Mumbai,458823.0,29624.0,Home Decor
+48,43.0,Male,Bangalore,1431565.0,1581.0,Electronics
+68,35.0,Male,Chennai,1317703.0,13784.0,Electronics
+29,42.0,Male,Hyderabad,1317026.0,46685.0,Clothing
+16,20.0,Male,Mumbai,1081474.0,22106.0,Home Decor
+100,61.0,Female,Delhi,1442424.0,5111.0,Sports
+12,41.0,Male,Bangalore,1002335.0,20008.0,Sports
+51,45.0,Male,Mumbai,987995.0,46675.0,Electronics
+28,61.0,Female,Bangalore,739430.0,17519.0,Groceries
+36,61.0,Male,Chennai,434508.0,28751.0,Clothing
+53,24.0,Female,Bangalore,1089852.0,5737.0,Clothing
+93,,Female,Bangalore,1472622.0,23789.0,Home Decor
+83,62.0,Female,Chennai,1498838.0,26711.0,Electronics
+94,18.0,Female,Delhi,706619.0,45190.0,Groceries
+61,57.0,Male,Delhi,,10162.0,Electronics
+87,43.0,Male,Bangalore,519963.0,23549.0,Clothing
+82,33.0,Female,Bangalore,830089.0,29722.0,Home Decor
+56,64.0,Male,Delhi,1335362.0,49512.0,Groceries
+31,59.0,Female,Bangalore,407450.0,26758.0,Electronics
+27,39.0,Female,Delhi,428391.0,37733.0,Sports
+74,31.0,Female,Chennai,1405534.0,13796.0,Groceries
+57,52.0,Male,Hyderabad,948307.0,46452.0,Electronics
+41,26.0,Male,Mumbai,1179611.0,32717.0,Clothing
+20,61.0,Female,Chennai,1438848.0,4642.0,Clothing
+10,28.0,Male,Delhi,1067836.0,48596.0,Electronics
+95,42.0,Female,Delhi,1380673.0,35757.0,Sports
+66,21.0,,Delhi,813758.0,2179.0,Electronics
+7,56.0,,Chennai,1212495.0,15838.0,Clothing
+3,32.0,Male,Bangalore,1091971.0,31524.0,Home Decor
+76,32.0,Female,Bangalore,497392.0,13745.0,Electronics
+6,38.0,Male,Bangalore,816349.0,30249.0,Home Decor
+46,31.0,Male,Delhi,424123.0,35199.0,Sports
+96,24.0,Male,Delhi,1296161.0,10323.0,Home Decor
+47,26.0,Female,Delhi,1236093.0,9704.0,Home Decor
+91,46.0,Female,Delhi,901863.0,3349.0,Home Decor
+52,64.0,Male,Delhi,711927.0,8305.0,Home Decor
+43,,Male,Chennai,345714.0,6449.0,Clothing
+88,,Female,Chennai,780761.0,14569.0,Sports
+23,19.0,,Mumbai,1177844.0,7579.0,Sports
+33,33.0,Female,Bangalore,738741.0,8811.0,Sports
+86,41.0,Male,Mumbai,,39149.0,Groceries
+32,45.0,,Delhi,471890.0,21636.0,Clothing
+58,31.0,Male,Delhi,365726.0,3843.0,Groceries
+80,57.0,,Chennai,667654.0,43725.0,Electronics
+39,24.0,Male,Bangalore,,26445.0,Electronics
+8,36.0,Male,Hyderabad,1124792.0,2991.0,Groceries
+92,32.0,Female,Bangalore,748982.0,,Electronics
+18,19.0,Male,Delhi,936584.0,1376.0,Electronics
+55,25.0,Female,Chennai,415294.0,46043.0,Electronics
+42,56.0,Male,Hyderabad,1029903.0,8808.0,Sports
+45,42.0,Male,Chennai,930271.0,24444.0,Groceries
+25,50.0,Male,Chennai,1407447.0,40067.0,Home Decor
+4,60.0,Male,Bangalore,801157.0,43175.0,Groceries
+26,29.0,Male,Mumbai,1239903.0,29440.0,Clothing
+67,46.0,Male,Chennai,1283609.0,4006.0,Groceries
+59,34.0,Female,Chennai,441564.0,14000.0,Home Decor
+19,41.0,Male,Bangalore,918467.0,32593.0,Electronics
+5,25.0,Male,Delhi,484423.0,5277.0,Home Decor
+37,20.0,Male,Hyderabad,1499386.0,,Clothing
+21,47.0,Female,Bangalore,338467.0,15702.0,Groceries
+79,40.0,Male,Delhi,798863.0,44419.0,Sports
+30,44.0,Male,Bangalore,556687.0,18577.0,Groceries
+70,61.0,Male,Bangalore,336631.0,19628.0,Electronics
+14,57.0,Male,Bangalore,1426081.0,49247.0,Groceries
+11,28.0,Male,Delhi,1286001.0,15099.0,Electronics
+72,27.0,Male,Bangalore,1352590.0,9935.0,Electronics
+81,38.0,Female,Mumbai,879036.0,35747.0,Groceries
+22,,Female,Bangalore,1336685.0,40234.0,Home Decor
+64,23.0,Female,Mumbai,989944.0,8630.0,Electronics
+97,26.0,Female,Chennai,966326.0,42475.0,Sports
+1,56.0,Female,Bangalore,678480.0,23177.0,Clothing
+85,64.0,Female,Bangalore,1097079.0,27146.0,Home Decor
+34,32.0,Male,Mumbai,581974.0,17714.0,Clothing
+90,58.0,Female,Hyderabad,564512.0,32343.0,Groceries
+89,62.0,Female,Hyderabad,520984.0,33080.0,Sports
+78,31.0,Male,Mumbai,,30399.0,Home Decor
+50,37.0,Male,Chennai,478274.0,17396.0,Sports
+60,,Male,Chennai,568246.0,29875.0,Clothing
+62,21.0,Female,Chennai,554079.0,17464.0,Sports
+69,43.0,Male,Bangalore,745101.0,7753.0,Electronics
+49,19.0,Male,Hyderabad,1129957.0,,Sports
+35,64.0,Male,Mumbai,416381.0,14598.0,Clothing
+38,54.0,Male,Bangalore,1140477.0,47530.0,Groceries
+24,38.0,Female,Chennai,780047.0,8487.0,Sports
+15,41.0,Female,Delhi,,49656.0,Sports
+75,48.0,Male,Bangalore,1430650.0,30945.0,Groceries
+9,40.0,Male,Bangalore,433272.0,27736.0,Home Decor
+17,39.0,Female,Chennai,754351.0,22199.0,Groceries
+73,53.0,Male,Delhi,1366646.0,44578.0,Sports
+63,19.0,Male,Delhi,850929.0,48393.0,Home Decor
+65,59.0,Female,Delhi,988105.0,20031.0,Sports
+84,35.0,Male,Chennai,535362.0,37720.0,Home Decor
+99,18.0,Male,Chennai,418834.0,16864.0,Sports
+40,38.0,Female,Delhi,1346811.0,25816.0,Home Decor
+13,53.0,Female,Hyderabad,1107789.0,3551.0,Groceries
+2,46.0,Female,Bangalore,332711.0,31789.0,Electronics
+44,21.0,Female,Mumbai,1274339.0,,Sports
