@@ -1,0 +1,104 @@
+Transaction_ID,Customer_Name,Account_Type,Branch,Balance,Transaction_Amount,Credit_Score
+1,Raj,Current,Delhi,55351,11147,752
+2,Pooja,Fixed Deposit,Delhi,63267,9216,503
+3,Vikram,Savings,Bangalore,50354,23855,517
+4,Raj,Current,Delhi,4557,22509,773
+5,Karan,Savings,Chennai,40360,19834,731
+6,Vikram,Savings,Pune,84018,24876,640
+7,Vikram,Current,Delhi,4200,12823,850
+8,Raj,Fixed Deposit,Bangalore,70497,5280,588
+9,Anita,Savings,Bangalore,48975,2868,553
+10,Karan,Current,Delhi,23357,12539,656
+11,Raj,Savings,Pune,79505,7155,322
+12,Karan,Savings,Delhi,4869,8673,821
+13,Karan,Savings,Bangalore,63135,4995,399
+14,Vikram,Savings,Mumbai,52108,11393,479
+15,Pooja,Fixed Deposit,Chennai,96179,22886,522
+16,Karan,Savings,Bangalore,92272,23498,741
+17,Neha,Savings,Delhi,40467,13903,624
+18,Vikram,Savings,Chennai,25328,13621,815
+19,Anita,Fixed Deposit,Delhi,93412,22803,315
+20,Pooja,Savings,Delhi,88831,11466,635
+21,Neha,Savings,Mumbai,5987,1353,557
+22,Neha,Fixed Deposit,Chennai,60871,21030,796
+23,Anita,Fixed Deposit,Chennai,24399,20653,459
+24,Pooja,Fixed Deposit,Mumbai,48214,17458,774
+25,Vikram,Savings,Bangalore,88416,18032,679
+26,Ravi,Fixed Deposit,Delhi,72271,150000,844
+27,Pooja,Fixed Deposit,Pune,46064,23341,726
+28,Anita,Savings,Delhi,72091,24393,567
+29,Neha,Fixed Deposit,Delhi,42818,10407,876
+30,Vikram,Savings,Bangalore,47525,5277,716
+31,Pooja,Current,Delhi,21830,20738,467
+32,Ravi,Fixed Deposit,Mumbai,19429,15838,342
+33,Ravi,Current,Mumbai,8893,2991,855
+34,Karan,Savings,Chennai,81909,120000,584
+35,Karan,Fixed Deposit,Pune,49333,15099,696
+36,Raj,Savings,Delhi,5436,20008,311
+37,Anita,Current,Delhi,76290,22575,601
+38,Pooja,Savings,Bangalore,78213,3551,552
+39,Pooja,Fixed Deposit,Mumbai,7895,16479,798
+40,Raj,Fixed Deposit,Pune,21738,16888,334
+41,Neha,Current,Chennai,32746,22106,389
+42,Neha,Savings,Mumbai,51377,22199,717
+43,Raj,Fixed Deposit,Chennai,50404,21753,414
+44,Neha,Current,Bangalore,56045,1376,495
+45,Karan,Fixed Deposit,Bangalore,99888,23911,800
+46,Pooja,Fixed Deposit,Delhi,41790,4642,792
+47,Raj,Savings,Pune,7600,15702,374
+48,Pooja,Fixed Deposit,Chennai,96660,7466,712
+49,Ravi,Savings,Mumbai,95179,7579,675
+50,Karan,Fixed Deposit,Bangalore,42764,8487,719
+51,Vikram,Current,Delhi,76543,7299,576
+52,Karan,Fixed Deposit,Delhi,47714,4965,693
+53,Raj,Savings,Chennai,58835,17519,756
+54,Vikram,Savings,Bangalore,75744,13917,491
+55,Ravi,Current,Pune,58491,18577,398
+56,Raj,Fixed Deposit,Bangalore,20589,21636,847
+57,Anita,Fixed Deposit,Chennai,45484,8811,395
+58,Pooja,Current,Chennai,84989,17714,489
+59,Ravi,Fixed Deposit,Bangalore,38212,14598,336
+60,Pooja,Fixed Deposit,Chennai,45525,5677,668
+61,Neha,Savings,Bangalore,49202,14762,824
+62,Anita,Fixed Deposit,Mumbai,34635,8808,578
+63,Anita,Fixed Deposit,Bangalore,65208,6449,516
+64,Ravi,Current,Bangalore,35828,19722,572
+65,Anita,Current,Chennai,20711,1650,361
+66,Vikram,Savings,Chennai,5420,24444,895
+67,Anita,Fixed Deposit,Delhi,98752,2431,641
+68,Pooja,Fixed Deposit,Delhi,2301,9704,696
+69,Pooja,Fixed Deposit,Mumbai,47236,18548,318
+70,Raj,Savings,Delhi,68235,1581,476
+71,Pooja,Savings,Bangalore,56240,17396,695
+72,Raj,Current,Chennai,67726,13907,744
+73,Pooja,Savings,Delhi,12492,8305,532
+74,Vikram,Fixed Deposit,Delhi,8102,5737,375
+75,Raj,Fixed Deposit,Mumbai,52336,17443,564
+76,Karan,Savings,Mumbai,87314,20556,754
+77,Neha,Fixed Deposit,Bangalore,28641,13275,683
+78,Ravi,Fixed Deposit,Chennai,36584,24288,863
+79,Pooja,Savings,Mumbai,34745,16744,805
+80,Anita,Savings,Delhi,25093,13684,666
+81,Pooja,Fixed Deposit,Chennai,68105,3843,443
+82,Anita,Fixed Deposit,Chennai,53885,14000,368
+83,Neha,Fixed Deposit,Delhi,38631,20954,398
+84,Neha,Current,Mumbai,74991,10162,695
+85,Neha,Current,Delhi,6014,17464,324
+86,Anita,Current,Chennai,13093,15625,768
+87,Pooja,Savings,Pune,20070,23888,783
+88,Neha,Current,Pune,37777,8630,864
+89,Vikram,Savings,Bangalore,58958,20031,450
+90,Raj,Savings,Delhi,84074,21133,443
+91,Anita,Current,Delhi,12729,2179,868
+92,Anita,Current,Bangalore,47017,4006,338
+93,Pooja,Current,Bangalore,68320,13784,408
+94,Anita,Fixed Deposit,Bangalore,29751,7753,341
+95,Anita,Current,Chennai,80069,19628,485
+96,Neha,Fixed Deposit,Delhi,56748,9935,697
+97,Pooja,Savings,Chennai,7801,22072,522
+98,Neha,Fixed Deposit,Bangalore,21190,11810,432
+99,Raj,Current,Delhi,51689,13796,462
+100,Raj,Savings,Chennai,52993,19025,514
+81,Pooja,Fixed Deposit,Chennai,68105,3843,443
+85,Neha,Current,Delhi,6014,17464,324
+34,Karan,Savings,Chennai,81909,15828,584
