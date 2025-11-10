@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,BP_Systolic,Cholesterol,Smoker,Diagnosis
+P001,63,Female,141,297,Yes,At Risk
+P002,76,Female,144,203,Yes,At Risk
+P003,53,Male,161,269,No,At Risk
+P004,39,Female,156,265,Yes,Healthy
+P005,67,Female,105,224,No,At Risk
+P006,32,Female,127,262,Yes,At Risk
+P007,45,Male,127,253,No,Healthy
+P008,63,Male,143,233,No,Diseased
+P009,43,Male,129,261,No,Healthy
+P010,47,Male,161,248,No,At Risk
+P011,35,Male,174,242,Yes,At Risk
+P012,35,Male,161,295,No,Healthy
+P013,48,Male,100,277,No,Diseased
+P014,77,Male,126,259,No,At Risk
+P015,60,Male,161,231,Yes,At Risk
+P016,64,Female,176,203,No,At Risk
+P017,48,Male,102,217,Yes,Healthy
+P018,27,Female,169,182,No,At Risk
+P019,46,Female,171,291,Yes,Diseased
+P020,77,Female,126,170,Yes,At Risk
+P021,26,Male,108,197,No,At Risk
+P022,48,Male,161,297,Yes,Diseased
+P023,68,Male,136,277,No,At Risk
+P024,54,Male,150,285,No,Healthy
+P025,62,Female,143,284,No,Healthy
+P026,26,Male,123,294,Yes,Healthy
+P027,45,Male,178,277,Yes,Diseased
+P028,57,Male,158,182,No,At Risk
+P029,36,Male,131,264,No,Healthy
+P030,46,Male,151,268,Yes,Diseased
+P031,68,Female,161,171,No,At Risk
+P032,49,Male,157,187,No,Diseased
+P033,73,Female,151,258,No,Healthy
+P034,51,Male,111,200,Yes,Healthy
+P035,66,Female,138,157,Yes,Healthy
+P036,52,Male,101,176,Yes,Diseased
+P037,40,Male,102,176,No,Diseased
+P038,39,Female,155,170,No,Healthy
+P039,71,Female,158,179,No,Diseased
+P040,75,Female,101,246,Yes,Healthy
+P041,68,Male,101,177,No,Healthy
+P042,79,Female,153,260,No,At Risk
+P043,76,Male,100,210,No,Diseased
+P044,27,Male,118,197,No,Healthy
+P045,61,Female,101,296,Yes,Healthy
+P046,75,Female,152,153,Yes,Diseased
+P047,31,Male,143,184,No,At Risk
+P048,45,Male,131,198,Yes,At Risk
+P049,33,Female,169,166,Yes,Healthy
+P050,63,Female,131,195,No,Diseased
+P051,42,Female,167,266,No,At Risk
+P052,28,Male,154,155,Yes,Diseased
+P053,49,Male,174,248,No,Diseased
+P054,38,Male,155,273,Yes,Healthy
+P055,74,Male,116,186,No,At Risk
+P056,33,Male,137,173,Yes,Healthy
+P057,50,Male,123,242,No,At Risk
+P058,77,Female,168,195,Yes,At Risk
+P059,26,Male,169,244,Yes,At Risk
+P060,44,Male,110,248,Yes,At Risk
+P061,52,Male,115,265,No,At Risk
+P062,71,Female,172,216,Yes,Diseased
+P063,31,Male,158,277,Yes,Healthy
+P064,68,Male,169,167,No,Diseased
+P065,32,Female,179,174,No,At Risk
+P066,71,Male,102,203,Yes,Healthy
+P067,59,Male,119,207,Yes,At Risk
+P068,38,Male,158,216,No,Healthy
+P069,41,Male,135,253,No,Diseased
+P070,60,Male,118,173,No,Healthy
+P071,74,Female,166,263,No,Healthy
+P072,64,Female,118,181,No,Healthy
+P073,28,Female,119,235,Yes,Healthy
+P074,26,Male,170,276,No,Healthy
+P075,30,Male,151,279,Yes,At Risk
+P076,78,Male,132,166,Yes,Healthy
+P077,66,Female,139,253,Yes,Healthy
+P078,28,Male,138,286,No,Diseased
+P079,78,Male,100,192,Yes,Healthy
+P080,53,Female,110,188,Yes,Diseased
+P081,42,Male,156,175,No,At Risk
+P082,50,Female,149,248,Yes,Healthy
+P083,68,Female,122,199,Yes,Diseased
+P084,58,Female,130,162,No,Diseased
+P085,34,Male,141,209,Yes,At Risk
+P086,60,Male,106,284,Yes,Healthy
+P087,38,Male,115,206,Yes,Healthy
+P088,55,Male,159,185,No,Diseased
+P089,72,Male,101,169,No,Healthy
+P090,39,Male,100,214,No,Diseased
+P091,32,Male,147,157,Yes,Healthy
+P092,38,Female,111,293,Yes,Diseased
+P093,47,Male,168,291,No,Healthy
+P094,64,Female,136,264,Yes,At Risk
+P095,45,Male,131,292,Yes,Healthy
+P096,40,Male,108,241,No,Healthy
+P097,69,Male,118,247,No,At Risk
+P098,42,Female,147,215,Yes,Healthy
+P099,71,Female,179,181,Yes,At Risk
+P100,77,Female,102,235,Yes,Healthy
