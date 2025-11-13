@@ -1,0 +1,101 @@
+Customer_ID,Status_Flag,Exit_Probability,Age_of_Client,Sex,Num_Dependents,Qualification,Marital_State,Annual_Income_Range,Card_Type,Relationship_Duration_Months,Num_Products_Held,Inactive_Months_LastYear,Contact_Count_LastYear,Credit_Cap,Revolving_Balance,Avg_Remaining_Credit,Spending_Ratio_Q4_Q1,Total_Spent_LastYear,Num_Transactions_LastYear,Transaction_Ratio_Q4_Q1,Credit_Use_Ratio
+10001,Closed Account,0.92,53,Female,1,Post-Graduate,Married,$120K +,Blue,15,2,5,2,11682,481,3723,0.65,3856,131,0.95,0.78
+10002,Active Account,0.75,21,Male,2,College,Divorced,$40K - $60K,Gold,15,3,1,3,17380,6344,7638,1.32,14788,115,1.01,0.74
+10003,Closed Account,0.9,39,Male,1,Uneducated,Divorced,$80K - $120K,Silver,67,2,1,2,9519,153,3167,0.72,7040,128,0.86,0.77
+10004,Closed Account,0.86,22,Female,1,High School,Married,$120K +,Silver,36,3,4,2,4300,7617,8480,0.72,16922,58,1.09,0.44
+10005,Closed Account,0.59,73,Male,1,Uneducated,Married,$120K +,Blue,78,5,2,5,7722,1524,630,1.04,3842,113,0.66,0.79
+10006,Active Account,0.88,64,Female,0,Doctorate,Married,$120K +,Blue,78,4,1,7,8218,2120,3483,1.09,9578,70,0.89,0.16
+10007,Closed Account,0.13,46,Male,0,High School,Divorced,$120K +,Gold,38,5,0,0,4054,6856,4778,1.08,3344,132,1.47,0.54
+10008,Closed Account,0.23,52,Female,0,High School,Married,$120K +,Blue,43,2,5,6,14575,2343,7626,0.59,10896,143,0.76,0.06
+10009,Closed Account,0.09,26,Male,2,Unknown,Divorced,$60K - $80K,Platinum,61,4,5,3,8970,5136,8730,1.38,17982,18,1.16,0.34
+10010,Active Account,0.34,52,Female,4,High School,Single,$80K - $120K,Blue,72,3,4,5,3143,5760,8194,0.77,18707,15,0.83,0.38
+10011,Closed Account,0.4,24,Female,1,Graduate,Divorced,$120K +,Platinum,62,4,3,4,10503,1240,7140,0.63,14498,82,1.27,0.41
+10012,Closed Account,0.29,31,Female,1,College,Divorced,$80K - $120K,Gold,30,1,4,7,16149,60,5968,1.39,13761,112,0.63,0.68
+10013,Closed Account,0.8,37,Female,2,College,Single,$60K - $80K,Gold,32,4,3,0,19922,938,1420,1.46,3593,50,1.47,0.4
+10014,Closed Account,0.37,58,Female,1,Uneducated,Divorced,$60K - $80K,Gold,16,1,4,0,13175,1639,8064,1.36,12222,123,0.95,0.45
+10015,Active Account,0.3,44,Male,0,Doctorate,Married,$80K - $120K,Gold,53,4,4,4,9356,6185,11461,1.31,19780,17,0.74,0.26
+10016,Closed Account,0.54,25,Male,4,High School,Married,Less than $40K,Gold,72,1,4,6,16070,4120,9184,1.16,12145,81,0.57,0.39
+10017,Active Account,0.18,72,Male,3,Graduate,Divorced,$40K - $60K,Platinum,33,2,3,2,1822,5158,9823,1.05,15583,101,0.67,0.25
+10018,Active Account,0.77,54,Female,1,Uneducated,Married,Less than $40K,Platinum,32,5,3,5,18327,7970,9002,0.59,1488,71,1.02,0.12
+10019,Active Account,0.12,26,Male,0,Unknown,Divorced,Less than $40K,Gold,12,3,4,1,15289,4226,9430,0.91,6946,93,0.84,0.59
+10020,Closed Account,0.94,42,Female,3,Uneducated,Married,Less than $40K,Blue,16,4,1,3,7150,3569,3741,0.87,16835,71,1.33,0.65
+10021,Active Account,0.75,31,Female,4,Uneducated,Married,$120K +,Silver,23,5,2,1,5425,1252,1045,0.76,16633,120,0.93,0.61
+10022,Closed Account,0.23,68,Male,3,High School,Divorced,$60K - $80K,Gold,57,3,2,4,17032,4203,11153,1.22,2182,136,0.75,0.47
+10023,Active Account,0.05,36,Male,0,Unknown,Married,Less than $40K,Blue,45,3,2,0,3198,171,4846,1.0,6126,16,1.12,0.39
+10024,Active Account,0.78,53,Female,3,Uneducated,Divorced,$60K - $80K,Silver,60,1,3,6,4452,1458,10496,0.58,7924,93,1.21,0.83
+10025,Active Account,0.69,29,Male,2,Graduate,Married,$80K - $120K,Gold,56,2,3,0,10106,3549,11904,0.72,13357,141,0.67,0.52
+10026,Active Account,0.71,26,Female,3,Graduate,Married,$40K - $60K,Gold,38,2,1,3,14859,4197,4310,1.18,12655,143,0.67,0.48
+10027,Active Account,0.74,36,Female,1,College,Single,$80K - $120K,Platinum,37,5,2,0,18692,7009,7706,0.58,17817,67,0.54,0.07
+10028,Active Account,0.12,49,Female,1,Unknown,Single,$80K - $120K,Silver,58,2,2,0,9705,6667,9505,1.35,11925,31,1.24,0.36
+10029,Active Account,0.37,23,Female,2,Unknown,Divorced,$120K +,Silver,67,4,4,3,11112,2322,2532,1.0,2480,136,1.16,0.39
+10030,Active Account,0.15,40,Female,0,College,Single,$40K - $60K,Blue,74,2,3,5,5841,1636,8936,0.98,16022,12,0.97,0.41
+10031,Closed Account,0.83,56,Male,1,Uneducated,Divorced,$80K - $120K,Platinum,59,5,2,5,16358,3115,771,1.09,19940,136,1.34,0.57
+10032,Closed Account,0.61,39,Male,4,Unknown,Single,$80K - $120K,Platinum,72,2,5,3,2409,4090,4011,1.32,9484,50,1.31,0.53
+10033,Active Account,0.35,46,Female,1,Graduate,Married,$40K - $60K,Platinum,37,4,1,6,5566,6960,2271,0.85,17675,115,1.09,0.6
+10034,Active Account,0.11,23,Female,1,Graduate,Divorced,$40K - $60K,Platinum,47,1,5,4,12382,3004,9954,1.18,16383,23,1.37,0.74
+10035,Active Account,0.33,39,Male,0,High School,Divorced,$80K - $120K,Silver,12,5,5,7,18939,5136,11116,1.07,5890,21,0.71,0.78
+10036,Closed Account,0.34,40,Male,3,Unknown,Married,$40K - $60K,Silver,19,1,1,0,15596,329,4861,0.77,19139,96,0.61,0.7
+10037,Active Account,0.71,52,Female,1,Uneducated,Divorced,$80K - $120K,Gold,63,1,5,6,1804,3640,7569,1.38,2107,21,0.77,0.91
+10038,Closed Account,0.62,27,Male,2,College,Divorced,$80K - $120K,Gold,58,1,2,0,14221,3894,1420,1.3,7073,34,0.56,0.07
+10039,Closed Account,0.85,72,Female,3,College,Single,$120K +,Platinum,67,3,3,7,2279,5616,8690,1.16,17868,54,1.03,0.23
+10040,Closed Account,0.47,61,Male,4,Uneducated,Divorced,Less than $40K,Platinum,25,3,1,4,14192,7982,3930,1.35,6276,131,1.44,0.06
+10041,Closed Account,0.16,53,Female,0,Doctorate,Married,$80K - $120K,Platinum,39,1,4,5,8083,4107,4935,1.37,4176,64,0.54,0.63
+10042,Closed Account,0.69,60,Male,4,Post-Graduate,Single,$60K - $80K,Gold,13,5,5,6,12093,1341,11316,1.21,3880,109,0.62,0.86
+10043,Active Account,0.73,59,Female,3,High School,Single,Less than $40K,Blue,37,4,1,2,18771,3663,4260,1.34,9211,145,0.95,0.27
+10044,Active Account,0.56,38,Male,3,College,Married,Less than $40K,Blue,25,4,0,2,13880,215,2550,1.2,9282,128,1.43,0.88
+10045,Active Account,0.74,60,Male,3,Unknown,Married,Less than $40K,Gold,70,2,0,7,16517,338,1665,1.18,17934,62,0.82,0.1
+10046,Active Account,0.49,21,Female,4,High School,Single,$120K +,Gold,67,5,3,2,3106,5895,9067,1.12,14497,41,1.01,0.89
+10047,Active Account,0.52,31,Male,3,Unknown,Divorced,$80K - $120K,Gold,18,3,2,5,17086,4062,2533,1.25,6842,60,0.54,0.37
+10048,Closed Account,0.43,48,Female,4,Doctorate,Single,$120K +,Gold,14,1,3,7,5831,2708,6967,0.66,17843,53,0.65,0.14
+10049,Active Account,0.07,45,Male,3,Graduate,Married,$80K - $120K,Gold,34,2,3,5,4186,3152,645,1.38,6559,91,1.49,0.49
+10050,Active Account,0.15,70,Female,2,High School,Single,$120K +,Gold,29,4,3,4,3573,1750,4888,1.37,9384,46,1.47,0.28
+10051,Closed Account,0.08,43,Male,3,College,Married,$120K +,Platinum,49,3,3,0,13808,5604,8332,0.53,6155,105,0.5,0.31
+10052,Active Account,0.62,51,Female,4,High School,Single,$60K - $80K,Platinum,26,3,4,4,3599,2421,9123,1.33,12591,65,1.45,0.33
+10053,Closed Account,0.33,50,Male,1,High School,Divorced,$120K +,Platinum,75,1,4,4,5033,7119,9396,0.63,19830,114,1.14,0.77
+10054,Active Account,0.51,62,Female,3,High School,Single,$40K - $60K,Platinum,39,4,1,5,9428,709,8673,0.84,15751,68,1.37,0.54
+10055,Closed Account,0.87,55,Male,1,Post-Graduate,Single,$60K - $80K,Gold,50,5,0,7,2304,5319,3132,1.24,1026,140,0.95,0.33
+10056,Active Account,0.27,27,Female,2,High School,Married,$120K +,Blue,68,3,3,7,18685,7704,4994,0.66,3724,44,1.02,0.6
+10057,Active Account,0.42,36,Female,0,Unknown,Married,Less than $40K,Silver,28,1,1,2,19925,6609,8556,1.32,15569,102,0.99,0.69
+10058,Closed Account,0.73,46,Female,2,Graduate,Married,$40K - $60K,Gold,55,5,0,1,19435,5208,8011,1.33,12036,106,1.17,0.3
+10059,Closed Account,0.26,68,Male,3,Doctorate,Single,$40K - $60K,Silver,36,4,5,0,9633,5387,9655,1.01,14047,144,0.64,0.42
+10060,Closed Account,0.12,72,Female,1,Uneducated,Divorced,$40K - $60K,Blue,28,3,2,5,12372,3726,10926,0.51,18759,85,0.53,0.16
+10061,Closed Account,0.31,69,Male,1,High School,Married,$60K - $80K,Platinum,24,5,4,2,9996,3642,10733,0.79,2263,58,0.81,0.21
+10062,Closed Account,0.2,22,Female,4,College,Married,$120K +,Blue,36,5,5,6,17458,3993,2328,1.12,9212,103,1.2,0.66
+10063,Closed Account,0.89,21,Male,1,High School,Single,$120K +,Gold,79,5,0,1,6475,488,10800,1.48,6297,33,0.7,0.21
+10064,Closed Account,0.78,68,Female,4,College,Married,Less than $40K,Platinum,21,3,5,1,8184,5657,9630,1.13,9708,46,1.17,0.52
+10065,Closed Account,0.62,32,Male,0,Unknown,Divorced,Less than $40K,Gold,78,3,2,5,13875,46,5305,0.76,5609,13,1.47,0.69
+10066,Active Account,0.83,25,Male,3,College,Divorced,$40K - $60K,Platinum,29,2,0,3,2622,3359,1306,1.13,17000,117,0.59,0.15
+10067,Active Account,0.77,57,Female,4,Uneducated,Married,Less than $40K,Silver,45,4,5,0,16988,4873,10155,1.04,2933,135,1.17,0.56
+10068,Closed Account,0.22,52,Male,0,Graduate,Married,$60K - $80K,Silver,19,1,4,1,9041,5135,7986,1.28,17467,29,0.94,0.28
+10069,Active Account,0.85,29,Male,1,College,Single,$120K +,Silver,51,5,4,5,17725,4806,8702,0.61,4667,59,1.37,0.92
+10070,Active Account,0.54,61,Female,1,College,Divorced,$40K - $60K,Blue,53,2,1,5,19458,400,2368,1.26,18273,105,0.68,0.49
+10071,Active Account,0.78,55,Male,0,Graduate,Divorced,Less than $40K,Gold,52,1,5,2,8992,3990,8378,1.04,8857,114,1.19,0.78
+10072,Active Account,0.86,39,Male,1,Uneducated,Married,$60K - $80K,Blue,17,2,3,6,16646,5913,6190,1.46,6654,126,1.34,0.55
+10073,Closed Account,0.34,68,Male,0,High School,Single,$60K - $80K,Silver,63,3,5,3,18029,7124,8327,0.84,9420,107,1.44,0.09
+10074,Active Account,0.15,36,Female,4,College,Divorced,Less than $40K,Gold,37,5,0,0,5263,3157,5929,1.13,18927,75,1.18,0.62
+10075,Closed Account,0.26,23,Male,4,Graduate,Divorced,$120K +,Silver,75,1,0,7,15060,4345,9576,1.43,17662,88,1.0,0.91
+10076,Active Account,0.43,40,Female,0,Unknown,Single,Less than $40K,Blue,70,1,5,4,16156,390,4064,0.6,713,15,1.12,0.59
+10077,Active Account,0.79,44,Male,4,Graduate,Single,$40K - $60K,Blue,67,1,2,6,9646,3853,1889,1.44,4262,48,1.37,0.79
+10078,Active Account,0.82,74,Male,4,Unknown,Divorced,Less than $40K,Blue,70,1,4,6,12664,4430,7774,1.19,13899,124,1.07,0.85
+10079,Closed Account,0.06,53,Male,4,Uneducated,Divorced,$60K - $80K,Silver,44,1,0,2,3969,628,1324,0.57,10268,134,0.53,0.26
+10080,Active Account,0.51,44,Female,2,High School,,Less than $40K,Gold,64,2,4,7,4028,7686,2765,0.8,11140,21,1.43,0.24
+10081,Closed Account,0.43,72,Male,3,Graduate,Divorced,$120K +,Gold,33,5,0,1,4629,4232,1436,1.21,7231,140,1.19,0.6
+10082,Active Account,0.25,31,Male,1,Doctorate,Married,$80K - $120K,Silver,32,3,1,1,4067,2930,11492,0.57,6291,27,1.18,0.42
+10083,Closed Account,0.16,69,Female,2,Doctorate,Married,Less than $40K,Gold,15,3,3,2,6941,6831,11245,1.08,16322,49,0.72,0.81
+10084,Active Account,0.35,28,Male,4,,Single,$120K +,Silver,73,3,0,5,18770,1521,6902,0.85,9283,30,1.16,0.86
+10085,Closed Account,0.9,56,Female,0,College,Single,$120K +,Gold,73,3,4,1,12555,826,4345,1.12,14121,108,0.89,0.37
+10086,Closed Account,0.34,58,Female,4,Uneducated,Single,$60K - $80K,Platinum,35,2,1,3,14081,4822,2296,0.55,16519,35,1.15,0.26
+10087,Active Account,0.52,60,Male,3,Graduate,Married,$120K +,Platinum,66,4,0,0,7819,1500,8745,1.37,3220,17,0.61,0.75
+10088,Closed Account,0.68,40,Female,4,Doctorate,Divorced,$120K +,Blue,20,5,2,6,12046,6737,7714,1.47,9405,109,1.16,0.3
+10089,Active Account,0.38,55,Male,0,College,Married,$120K +,Platinum,14,1,3,6,18717,3294,1226,1.47,9627,96,1.5,0.79
+10090,Active Account,0.92,68,Female,3,Doctorate,Divorced,$120K +,Platinum,42,4,0,3,3711,5085,3236,1.25,16885,51,0.55,0.43
+10091,Active Account,0.92,45,Female,4,Graduate,Married,$40K - $60K,Platinum,51,3,1,7,5853,2419,11862,0.63,6868,23,1.48,0.65
+10092,Active Account,0.28,55,Male,3,Unknown,Divorced,$40K - $60K,Silver,47,4,2,1,8715,934,2413,1.26,14556,87,0.91,0.14
+10093,Active Account,0.5,45,Female,1,Graduate,Married,$60K - $80K,Platinum,35,5,5,6,9942,3042,10288,0.52,12736,11,1.37,0.61
+10094,Active Account,0.32,49,Female,1,Post-Graduate,Single,Less than $40K,Platinum,17,1,1,4,16507,4497,10606,0.52,18833,128,1.28,0.46
+10095,Active Account,0.31,38,Female,4,Graduate,Married,$120K +,Blue,77,1,1,7,16826,1466,8157,0.82,14951,46,1.07,0.58
+10096,Active Account,0.08,66,Female,3,Graduate,Divorced,Less than $40K,Platinum,15,5,2,0,2762,3561,2966,0.99,17801,78,1.24,0.2
+10097,Active Account,0.6,38,Female,0,Post-Graduate,Married,Less than $40K,Platinum,17,5,1,0,16850,614,11429,1.27,10933,50,1.38,0.71
+10098,Active Account,0.5,22,Male,4,Uneducated,Married,$60K - $80K,Gold,62,3,2,6,13112,5392,9541,1.18,16025,71,0.9,0.83
+10099,Active Account,0.1,74,Female,1,Graduate,Married,$120K +,Blue,73,1,0,2,13652,7693,10801,0.95,589,69,0.83,0.25
+10100,Closed Account,0.3,55,Male,1,Post-Graduate,Single,$120K +,Blue,68,4,2,7,7122,1182,7812,0.77,18593,134,1.17,0.14
